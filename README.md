@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulmini&label=Profile%20views&color=0e75b6&style=flat" alt="soulmini" /> </p>
 
-- 🔭 I’m currently working on **Blog Site**
+- 🔭 I’m currently working on **realTime Code-Editor**
 
-- 🌱 I’m currently learning **Redux, Docker**
+- 🌱 I’m currently learning **Docker, Nextjs, PostgreSQL, AWS, JQuery**
 
-- 💬 Ask me about **React.js , node.js, express.js, MongoDB**
+- 💬 Ask me about **React.js , node.js, express.js, MongoDB, C/C++, JavaScript/TypeSript**
 
 - 📫 How to reach me **ayush02jaiswal@gmail.com**
 
