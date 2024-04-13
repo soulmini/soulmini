@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayush Jaiswal</h1>
-<h3 align="center">A passionate about Mern Stack Development</h3>
+<h3 align="center">A passionate about Full stack dev</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulmini&label=Profile%20views&color=0e75b6&style=flat" alt="soulmini" /> </p>
 
-- 🌱 I’m currently working on **Docker, Nextjs, PostgreSQL, AWS, GraphQL, Prisma**
+- 🌱 I’m currently working on **Docker, AWS, GraphQL**
 
-- 💬 Ask me about **React.js , node.js, express.js, MongoDB, C/C++, JavaScript/TypeSript, NextJs, PostreSQL, tRPC**
+- 💬 Ask me about **React.js , node.js, express.js, MongoDB, C/C++, JavaScript/TypeSript, NextJs, PostreSQL, tRPC, Nextjs, PostgreSQL, AWS, Prisma**
 
-- 📫 How to reach me **ayush02jaiswal@gmail.com**
+- 📫 do reach me out for real dev**ayush02jaiswal@gmail.com**
 
 - ⚡ Fun fact **I am too Busy**
 
